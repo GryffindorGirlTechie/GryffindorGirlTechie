@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...anything is fine
 - 📫 How to reach me ...Email
 - 😄 Pronouns: ...She/Her
-- ⚡ Fun fact: ...I am also interested in magic and hoping to learn how to pick locks
+- ⚡ Fun fact: ...I am only 12
 
 <!---
 GryffindorGirlTechie/GryffindorGirlTechie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
