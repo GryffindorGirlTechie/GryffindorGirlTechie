@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GryffindorGirlTechie
+- 👋 Hi, I’m Naomi
 - 👀 I’m interested in ...Learning Coding
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...anything is fine
